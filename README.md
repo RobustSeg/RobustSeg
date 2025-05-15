@@ -54,7 +54,7 @@ CUDA_VISIBLE_DEVICES=1 python tools/val_mm_NM.py --cfg configs/deliver_seg_s.yam
 
 ## Data Preparation
 Used Datasets: 
-[MUSES](https://muses.vision.ee.ethz.ch/) / [DELIVER](https://github.com/jamycheung/DELIVER) / [MCubes](https://github.com/kyotovision-public/multimodal-material-segmentation)
+[MUSES](https://muses.vision.ee.ethz.ch/) / [DELIVER](https://github.com/jamycheung/DELIVER) / [MCubeS](https://github.com/kyotovision-public/multimodal-material-segmentation)
 
 ## Pre-trained Weights of RobustSeg
 You can directly use the pre-trained models in the weights folder, which represent the highest mIoU in the paper.
